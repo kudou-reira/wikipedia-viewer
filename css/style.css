@@ -1,0 +1,30 @@
+.center-text{
+  text-align: center;
+}
+
+.slight-marginT{
+  margin-top: 1.5%;
+}
+
+.slight-marginB{
+  margin-bottom: 1%;
+}
+
+.shrink{
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+}
+
+.titleChange{
+  font-size: 20px;
+}
+
+.cage{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.goLeft{
+  text-align: left;
+}
